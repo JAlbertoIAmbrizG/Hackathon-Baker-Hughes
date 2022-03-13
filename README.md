@@ -1,4 +1,4 @@
-El código totalmente documentado con el análisis exploratorio se encuentra en: [**Final submission**](Final submission code_EDA and Model.ipynb)
+El código totalmente documentado con el análisis exploratorio se encuentra en: [**Final submission**]("Final submission code_EDA and Model.ipynb")
 
 * La implementacion extra de redes neuronales en: [Modelo Extra ANN](Modelo Extra ANN.ipynb)
 * La implementacion extra de random forest en: [Random_forest](Random_forest.ipynb)
